@@ -1,6 +1,8 @@
 Final Report: HealthOnTable Website
 Prepared by: [Akatsuki]
 Date: [9th March,2024]
+Problem Statement Number: 100
+Problem Statement: Optimizing Doctor Availability and Appointment Allocation in Hospitals through Digital Technology and Al Integration.
 Executive Summary:
 HealthOnTable, our website aimed at facilitating appointment bookings for medical services, has been successfully developed and deployed. Throughout the development process, our team has diligently worked to incorporate various features, ensuring user-friendly navigation and efficient functionality. The website encompasses sections such as a login page, appointment booking system integrated with JavaScript, and a schedule checking feature, among others.
 1. Introduction:
